@@ -1,6 +1,6 @@
 - 👋 Hello, I'm @EmreAtarr
-- 👀 I'm interested in game development
-- 🌱I'm currently making and learning games with Unity..
+- 👀 I'm interested in data
+- 🌱 I'm currently improving my skills in data and analysis.
 - 📫You can reach me at atargamedev@gmail.com.
 
 
